@@ -1,0 +1,1 @@
+nginx -p /home/Server/ -c conf/game.conf
