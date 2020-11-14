@@ -1,1 +1,0 @@
-nginx -p /home/Server/ -c conf/game.conf -s stop
